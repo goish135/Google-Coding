@@ -1,20 +1,21 @@
-- [ ] 1
+Google 白板題
+- [x] 1 Two Sum
 - [ ] 2
 - [ ] 3
 - [ ] 4
-- [ ] 5
-- [ ] 7
+- [x] 5 Longest Palindromic Substring 
+- [x] 7 Reverse Integer
 - [ ] 8
-- [ ] 9
+- [x] 9 Palindrome Number
 - [ ] 10
 - [ ] 11
 - [ ] 12
-- [ ] 14
-- [ ] 15
+- [x] 14Longest Common Prefix 
+- [ ] 153Sum
 - [ ] 16
 - [ ] 17
 - [ ] 20
-- [ ] 21
+- [x] 21Merge Two Sorted Lists
 - [ ] 22
 - [ ] 23
 - [ ] 28
@@ -86,7 +87,7 @@
 - [ ] 163
 - [ ] 165
 - [ ] 166
-- [ ] 167
+- [x] 167 Two Sum II - Input array is sorted 
 - [ ] 168
 - [ ] 169
 - [ ] 173
